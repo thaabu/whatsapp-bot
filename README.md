@@ -113,5 +113,5 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [ABUTHA](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
